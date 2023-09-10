@@ -41,7 +41,7 @@ Hi, I'm William Niarquin, a student at [Epitech](https://www.epitech.eu/) in Nic
 - C
 - C++
 - Python
-- Javascript
+- JS / TS
 - HTML
 - CSS
 - PHP
@@ -49,8 +49,8 @@ Hi, I'm William Niarquin, a student at [Epitech](https://www.epitech.eu/) in Nic
 
 ### Frameworks
 
-- Symfony
-- Laravel
+- React-native
+- Expo (React-native)
 
 ### Tools
 
