@@ -21,7 +21,7 @@ Hi, I'm William Niarquin, a student at [Epitech](https://www.epitech.eu/) in Nic
 
 ### Projects
 
-- 2023: [ConnectChat](https://github.com/williamnrqn/ConnectChat), a chat application in php and javascript with a mysql database and a websocket server (in progress)
+- 2023: [ConnectChat](https://github.com/williamnrqn/ConnectChat), a chat application in php and javascript with a mysql database and a websocket server
 - 2023: [Watt Max](https://wattmax.fr/), a website for a company (in progress)
 
 ## Skills
